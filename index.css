@@ -222,13 +222,11 @@ font-weight: normal;
     margin-left: -2.5rem;
 
 }
-
-
 .page3 {
     background: peachpuff;
 }
 .page3 img{
-   box-sizing: border-box;
+    box-sizing: border-box;
     display: block;
     width: 5rem;
     height: 3.3rem;
@@ -245,6 +243,7 @@ font-weight: normal;
     animation:bounceInLeft 1s both ;
     opacity: 1;
 }
+
 .page4 {
     background: salmon
 }
